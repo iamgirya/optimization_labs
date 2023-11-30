@@ -137,7 +137,7 @@ def main():
         tab_1,
         text="Выполнить",
         foreground="white",
-        background="green",
+        background="red",
         command=draw_lab_1,
     )
 
@@ -235,8 +235,8 @@ def main():
     btn_tab_2 = Button(
         tab_2,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_2,
     )
 
@@ -405,8 +405,8 @@ def main():
     btn_tab_3 = Button(
         tab_3,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_3,
     )
 
@@ -553,8 +553,8 @@ def main():
     btn_tab_4 = Button(
         tab_4,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_4,
     )
 
@@ -751,8 +751,8 @@ def main():
     btn_tab_5 = Button(
         tab_5,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_5,
     )
 
@@ -917,8 +917,8 @@ def main():
     btn_tab_6 = Button(
         tab_6,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_6,
     )
 
@@ -1069,8 +1069,8 @@ def main():
     btn_tab_7 = Button(
         tab_7,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_7,
     )
 
@@ -1242,8 +1242,8 @@ def main():
     btn_tab_8 = Button(
         tab_8,
         text="Выполнить",
-        foreground="black",
-        background="#00FFFF",
+        foreground="white",
+        background="red",
         command=draw_lab_8,
     )
 
